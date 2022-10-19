@@ -1,0 +1,23 @@
+{
+  "name": "QR code component solution",
+  "version": "1.0.0",
+  "description": "This is a solution to the Frontend Mentor challenge [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevRock/FM-qr-code-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevRock/FM-qr-code-component/issues"
+  },
+  "homepage": "https://webdevrock.github.io/FM-qr-code-component",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
