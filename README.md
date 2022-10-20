@@ -17,8 +17,8 @@ This is a solution to the Frontend Mentor challenge [QR code component challenge
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [http://webdevrock.uk/fm/qr-code-component](http://webdevrock.uk/fm/qr-code-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/flex-html5-prc6lZl_Z8](https://www.frontendmentor.io/solutions/flex-html5-prc6lZl_Z8)
+- Live Site URL: [https://webdevrock.github.io/FM-qr-code-component](https://webdevrock.github.io/FM-qr-code-component)
 
 ### Built with
 
